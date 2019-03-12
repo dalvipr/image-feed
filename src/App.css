@@ -1,0 +1,22 @@
+
+
+.App {
+  padding: 20px;
+}
+.image-gallery {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.gallery-style{
+  background: url(./assets//gallery-bg.jpg);
+    text-align: center; 
+    color: #0d71ba; 
+    height: 550px; 
+    width: 680px;
+    margin: 0 auto;
+    border: 2px solid gray;
+    padding: 5px;
+}
+
+
