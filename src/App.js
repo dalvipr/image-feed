@@ -125,7 +125,7 @@ class App extends Component {
                 <Button
                   disabled={loading}
                   className={loading ? 'loading' : ''}
-                  fluid color="blue" size="large">Submit</Button>
+                  fluid color="blue" size="large">Post</Button>
               </Segment>
             </Form>
             

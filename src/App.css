@@ -19,4 +19,14 @@
     padding: 5px;
 }
 
+@media only screen and (min-device-width: 320px) and 
+(max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+  .gallery-style {
+    width: 100%;
+  }
+  .gallery-style img {
+    width: 100% !important;
+  }
+}
+
 
